@@ -21,10 +21,10 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
 
 ---
 
-<table style="border: none !important; border-collapse: collapse; border-spacing: 0;">
-  <tbody style="border: none !important; padding: 0;">
-    <tr style="border: none !important; padding: 0;">
-      <td style="border: none !important; padding: 0;">
+<table style="border: none;">
+  <tbody style="border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
         <p>
           <h3>Programming Languages & Environments</h3>
           <a href="#" title="Bash"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
@@ -81,7 +81,7 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
           <a href="#" title="Azure"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"></a>
         </p>
       </td>
-      <td style="border: none !important; padding: 0;">
+      <td style="border: none;">
         <p>
           <img alt="Coding" width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dkYnRoMGF4ZjQ5MzY2eTZ6NmRiYzcycnBha2RoaWxtZTkxY3Q5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif">
           <h3>DevOps & Version Control</h3>
