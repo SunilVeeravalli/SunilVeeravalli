@@ -110,7 +110,8 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
           <a href="#" title="Jira"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"></a>
           <a href="#" title="Confluence"><img src="https://www.svglogos.net/wp-content/uploads/confluence.svg" alt="Confluence" width="40" height="40"></a>
           <a href="#" title="Slack"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"></a>
-          <a href="#" title="Monday"><img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="Monday" width="40" height="40"></a>
+<!--           <a href="#" title="Monday"><img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="Monday" width="40" height="40"></a> -->
+<!--           dvc, mlflow -->
           <a href="#" title="NGINX"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
           <a href="#" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
           <a href="#" title="Selenium"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/></a>
