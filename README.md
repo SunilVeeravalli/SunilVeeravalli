@@ -48,7 +48,7 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
           <a href="#" title="LightGBM"><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" alt="LightGBM" width="80" height="40"></a>
           <a href="#" title="CatBoost"><img src="https://static.cdnlogo.com/logos/c/48/catboost.svg" alt="CatBoost" width="40" height="40"></a>
           <a href="#" title="NLTK"><img src="https://global-uploads.webflow.com/5d3ec351b1eba4332d213004/5ec645ccd0d5ff3da33ec726_python_nltk.png" alt="NLTK" width="40" height="40"></a>
-          <a href="#" title="OpenCV"><img src="https://vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"></a>
+<!--           <a href="#" title="OpenCV"><img src="https://vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"></a> -->
           <h3>Data Manipulation & Analysis</h3>
           <a href="#" title="Pandas"><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="40" height="40"></a>
           <a href="#" title="NumPy"><img src="https://vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"></a>
@@ -67,12 +67,12 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
           <a href="#" title="PostgreSQL"><img src="https://vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"></a>
           <a href="#" title="MongoDB"><img src="https://vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"></a>
           <a href="#" title="Redis"><img src="https://vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="40" height="40"></a>
-          <a href="#" title="Snowflake"><img src="https://vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"></a>
+<!--           <a href="#" title="Snowflake"><img src="https://vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"></a> -->
           <a href="#" title="Amazon Redshift"><img src="https://www.svglogos.net/wp-content/uploads/aws-redshift.svg" alt="Amazon Redshift" width="40" height="40"></a>
           <h3>Big Data & Data Engineering</h3>
           <a href="#" title="Apache Spark"><img src="https://vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"></a>
-          <a href="#" title="Apache Hadoop"><img src="https://vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop" width="40" height="40"></a>
-          <a href="#" title="Apache Kafka"><img src="https://vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"></a>        
+<!--           <a href="#" title="Apache Hadoop"><img src="https://vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop" width="40" height="40"></a> -->
+<!--           <a href="#" title="Apache Kafka"><img src="https://vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"></a>         -->
           <a href="#" title="Apache Airflow"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/apache-airflow.svg" alt="Apache Airflow" width="40" height="40"></a>
           <a href="#" title="Databricks"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="40" height="40"></a> 
           <a href="#" title="AWS Glue"><img src="https://vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Glue" width="40" height="40"></a> 
@@ -97,9 +97,9 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
           <a href="#" title="Ansible"><img src="https://vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"></a>
           <a href="#" title="Prometheus"><img src="https://vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"></a>
           <a href="#" title="Grafana"><img src="https://vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"></a>
-          <a href="#" title="CircleCI"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_circleci_icon_130690.png" alt="CircleCI" width="40" height="40"></a>
-          <a href="#" title="Travis CI"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis CI" width="40" height="40"></a>
-          <a href="#" title="Argo CD"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="40" height="40"></a>
+<!--           <a href="#" title="CircleCI"><img src="https://images.icon-icons.com/2107/PNG/512/file_type_circleci_icon_130690.png" alt="CircleCI" width="40" height="40"></a> -->
+<!--           <a href="#" title="Travis CI"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis CI" width="40" height="40"></a> -->
+<!--           <a href="#" title="Argo CD"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="40" height="40"></a> -->
           <h3>Operating Systems</h3>
           <a href="#" title="Linux"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/></a>
           <a href="#" title="Windows"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="40" height="40"/></a>
@@ -111,7 +111,7 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
           <a href="#" title="Confluence"><img src="https://www.svglogos.net/wp-content/uploads/confluence.svg" alt="Confluence" width="40" height="40"></a>
           <a href="#" title="Slack"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"></a>
 <!--           <a href="#" title="Monday"><img src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" alt="Monday" width="40" height="40"></a> -->
-<!--           dvc, mlflow -->
+<!--           dvc, mlflow, sonarqube, ELK stack -->
           <a href="#" title="NGINX"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
           <a href="#" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
           <a href="#" title="Selenium"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/></a>
