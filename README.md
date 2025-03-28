@@ -15,11 +15,11 @@ A passionate and results-oriented data scientist with experience bridging the ga
   </a>
 </p>
 
-## About Me
+<h2>About Me</h2>
 
 I'm a data professional with a holistic understanding of the data lifecycle, from data acquisition and preparation to model deployment and monitoring. I thrive on tackling complex problems and delivering data-driven solutions that improve efficiency, drive innovation, and optimize business outcomes.  I enjoy learning new technologies and staying at the forefront of the ever-evolving data landscape.
 
----
+<h2>Skills</h2>
 
 <table style="border: none;">
   <tbody style="border: none;">
@@ -35,7 +35,7 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
           <a href="#" title="Jupyter Notebook"><img src="https://vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="40" height="40"></a>
           <a href="#" title="Google Colab"><img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" width="40" height="40"></a>
           <a href="#" title="Visual Studio Code"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"></a>
-          <a href="#" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/leungwensen/svg-icon/refs/heads/master/dist/svg/logos/intellij-idea.svg" alt="Visual Studio Code" width="40" height="40"></a>
+          <a href="#" title="IntelliJ Idea"><img src="https://raw.githubusercontent.com/leungwensen/svg-icon/refs/heads/master/dist/svg/logos/intellij-idea.svg" alt="IntelliJ Idea" width="40" height="40"></a>
           <a href="#" title="Pycharm"><img src="https://img.icons8.com/?size=100&id=117121&format=png&color=000000" alt="Pycharm" width="40" height="40"></a>
           <a href="#" title="Dataspell"><img src="https://www.svglogos.net/wp-content/uploads/dataspell.svg" alt="Dataspell" width="40" height="40"></a>  
           <h3>Machine Learning Frameworks & Libraries</h3>          
@@ -92,7 +92,7 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
           <a href="#" title="Docker"><img src="https://vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"></a>
           <a href="#" title="Kubernetes"><img src="https://vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"></a>
           <a href="#" title="Jenkins"><img src="https://vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"></a>
-          <a href="#" title="GitHub Actions"><img src="https://www.svglogos.net/wp-content/uploads/github-actions.svg" alt="GitHub Actions" width="40" height="40"></a>
+          <a href="#" title="GitHub Actions"><img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/GithubActions-Dark.svg" alt="GitHub Actions" width="40" height="40"></a>
           <a href="#" title="Terraform"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"></a>
           <a href="#" title="Ansible"><img src="https://vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"></a>
           <a href="#" title="Prometheus"><img src="https://vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"></a>
@@ -105,13 +105,13 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
           <a href="#" title="Windows"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" width="40" height="40"/></a>
           <h3>Other Tools & Libraries</h3>
           <a href="#" title="HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-          <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+          <a href="#" title="CSS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
           <a href="#" title="Markdown"><img src="https://www.svglogos.net/wp-content/uploads/markdown.svg" alt="Markdown" width="40" height="40"></a>
           <a href="#" title="Jira"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"></a>
           <a href="#" title="Confluence"><img src="https://www.svglogos.net/wp-content/uploads/confluence.svg" alt="Confluence" width="40" height="40"></a>
-          <a href="#" title="Confluence"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
-          <a href="#" title="Confluence"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-          <a href="#" title="Confluence"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/></a>
+          <a href="#" title="NGINX"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/></a>
+          <a href="#" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+          <a href="#" title="Selenium"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/></a>
         </p>
       </td>
     </tr>
@@ -119,4 +119,54 @@ I'm a data professional with a holistic understanding of the data lifecycle, fro
 </table>
 
 
+
+## Experience
+
+* **59A**, UK | <u>Senior Data Scientist</u> | Mar 2021 to present
+  * By utilising statistical modelling and ML/DL approaches, identify and create optimisation tactics unique to programmatic campaigns across digital marketing platforms (Xandr, Facebook, DV360 etc.) to generate improved KPIs for the clients, including CTR, CPC, CPA, ROI, etc.
+  * Meet complex data requirements from websites such as Facebook, Google Trends and Maps (Footfall), Twitter, census, and client’s rivals’ locations and products by developing the required tools to scrape the web, transform, automate, apply and coherently optimise the campaign.
+  * Generate multiple predictive models to determine the optimal bid value to win the auction by executing real-time optimisations to identify the ideal metric combinations (feature engineering and selection).
+  * To choose and implement the best model that led to either meeting or exceeding the client-set target KPIs, we compare multiple predictive models leveraging AB testing. Several of our models performed 10x better than the client's target.
+  * Contribute towards end-to-end projects in SaaS development by collaborating closely with data engineers to automate ETL, model creation and deployment, followed by ongoing model performance monitoring, validation, and improvement.
+  * Engage closely with client solution (CS) and operations (OPS) teams to discuss and develop custom models specific to the campaign based on the client requirements and present our novel solution to the client.
+  * Update the client by automating mid- and post-campaign reports and visuals (MCA, PCA), and make accurate and clear presentations.
+  * Technological assessment of data science solutions and communication to non-technical member of the business as well as stakeholders. 
+
+* **University College London (UCL)**, UK | <u>Research Data Manager</u> | May 2019 to Feb 2021
+  * Acquired and interpreted research survey data from four longitudinal cohort studies that focused on the major difficulties we face, including education and learning, social mobility, obesity, mental health and wellness, family life, ageing, and poverty.
+  * Terabytes of data from these bulk investigations were cleaned, processed, and saved in SIR and PostgreSQL databases using automation written in Python.
+  * Prepared the documentation and metadata for deposition at UK Data Service (UKDS).
+  * Responded to inquiries from researchers both internally and externally and assisted them in data analysis and model-building for machine learning.
+
+* **University College London (UCL)**, UK | <u>Research Data Analyst (Visiting Staff)</u> | May 2019 to Feb 2021
+  * Store big data derived from three pre-clinical drug discovery studies to MySQL database.
+  * Process and prepare the data for statistical analysis in R and deploy machine learning models in Python.
+  * Visualize and present the data to stake holders, collaborators, funding bodies.
+
+* **University College London (UCL)**, UK | <u>Postdoctoral Research Associate</u> | Aug 2013 to May 2019
+  * Worked on pre-clinical studies to develop and test drugs to treat three different illnesses. Findings subject to intellectual property and patent.
+  * Quantitative and qualitative analysis of large health datasets. Developed statistical and machine learning models in R to efficiently analyse the data.
+  * Published research findings in peer reviewed journals.
+  * Supervised many undergraduate and Master level students.
+  * Senior tutor for a Continued Professional Development (CPD) course “Lab Techniques in Mammalian Cell Biology” where I trained both academics and industry professionals a hands-on in working with cell lines. 
+
+* **S2DS**, UK | <u>Data Science Fellow</u> | Aug 2019 to Sep 2019
+  * A rigorous, full-time 5-week Pivigo Science to Data Science (S2DS) Certification course in London 2019.
+  * To predict suspicious transactions in unlabelled travel data (air, train, car, and hotel), unsupervised machine learning models such as DBSCAN, Isolation Factor, Local Outlier Factor, MeanShift, Agglomerative Clustering, and Silhouette score were used. These models identified 5% of the transactions as suspicious or fraudulent.
+  * Used Flask, Swagger, and Dash to deploy the model and create an entire system for clients to use and visualise, potentially saving them millions from staff fraud.
+
+* **Windsor University School of Medicine**, St.Kitts & Navis | <u>Research Scientist</u> | Jan 2012 to Jul 2013
+  * Designed and tested new drugs to treat liver cancer.
+  * Researched, planned, prepared and delivered lectures to first year medical students.
+  * Enhanced students research experience through laboratory projects.
+
+
+## Education
+
+* **PhD** | University College London, UK 
+* **M.Sc**| La Trobe University, Australia
+* **B.Sc**| Nagarjuna Univerity, India 
+
+
+I am open to opportunities in the fields of **Data Science**, **DevOps**, and **Data Engineering**. I am particularly interested in roles that leverage my skills in machine learning, cloud technologies, and data automation to build innovative and impactful solutions.
 
