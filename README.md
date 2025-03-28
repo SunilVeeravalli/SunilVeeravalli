@@ -4,7 +4,7 @@ A passionate and results-oriented data scientist with experience bridging the ga
 
 
 <p align="center">
-  <a href="veeravallisunil@gmail.com">
+  <a href="mailto:veeravallisunil@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&style=social" />
   </a>
   <a href="https://www.github.com/sunilveeravalli">
